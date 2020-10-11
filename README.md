@@ -21,4 +21,12 @@ Ubuntu:
     sudo apt-get install python3-dnspython
 
 
-make nodes_test.txt and nodes_main.txt file
+make 
+
+# nodes_test.txt 
+
+and 
+
+# nodes_main.txt 
+
+file
