@@ -19,3 +19,6 @@ The seeds compiled into the release are created from sipa's DNS seed data, like 
 Ubuntu:
 
     sudo apt-get install python3-dnspython
+
+
+make nodes_test.txt and nodes_main.txt file
